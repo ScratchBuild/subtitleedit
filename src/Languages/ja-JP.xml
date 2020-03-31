@@ -81,7 +81,7 @@
     <DeleteCurrentLine>現在の行を削除</DeleteCurrentLine>
     <Width>Width</Width>
     <Height>Height</Height>
-    <ShortcutX>Shortcut: {0}</ShortcutX>
+    <ShortcutX>ショートカット: {0}</ShortcutX>
     <ExampleX>Example: {0}</ExampleX>
   </General>
   <About>
@@ -2046,7 +2046,7 @@ If you have edited this file with Subtitle Edit you might be able to find a back
     <GoForward1Second>1秒進む</GoForward1Second>
     <GoBack5Seconds>5秒戻る</GoBack5Seconds>
     <GoForward5Seconds>5秒進む</GoForward5Seconds>
-    <GoBack3Second>Three seconds back</GoBack3Second>
+    <GoBack3Second>3秒戻る</GoBack3Second>
     <GoToStartCurrent>Set video pos to start of current subtitle</GoToStartCurrent>
     <ToggleStartEndCurrent>Toggle video pos between start/end of current subtitle</ToggleStartEndCurrent>
     <PlayCurrent>Play current subtitle</PlayCurrent>
@@ -2074,7 +2074,7 @@ If you have edited this file with Subtitle Edit you might be able to find a back
     <SyntaxColorOverlap>タイム コードの重複に色を付ける</SyntaxColorOverlap>
     <SyntaxColorGap>Color gap if too short</SyntaxColorGap>
     <SyntaxErrorColor>エラーの色</SyntaxErrorColor>
-    <SyntaxLineWidthSettings>Settings...</SyntaxLineWidthSettings>
+    <SyntaxLineWidthSettings>設定...</SyntaxLineWidthSettings>
     <LineWidthSettings>Line width settings</LineWidthSettings>
     <MaximumLineWidth>Maximum line width:</MaximumLineWidth>
     <Pixels>pixels</Pixels>
@@ -2296,9 +2296,9 @@ Continue?</RestoreDefaultSettingsMsg>
     <SingleLineLengthMinimum>1 行の長さ - 最小: {0}</SingleLineLengthMinimum>
     <SingleLineLengthMaximum>1 行の長さ - 最大: {0}</SingleLineLengthMaximum>
     <SingleLineLengthAverage>1 行の長さ - 平均: {0}</SingleLineLengthAverage>
-    <SingleLineWidthMinimum>Single line width - minimum: {0} pixels</SingleLineWidthMinimum>
-    <SingleLineWidthMaximum>Single line width - maximum: {0} pixels</SingleLineWidthMaximum>
-    <SingleLineWidthAverage>Single line width - average: {0} pixels</SingleLineWidthAverage>
+    <SingleLineWidthMinimum>1 行の幅 - 最小: {0} pixels</SingleLineWidthMinimum>
+    <SingleLineWidthMaximum>1 行の幅 - 最大: {0} pixels</SingleLineWidthMaximum>
+    <SingleLineWidthAverage>1 行の幅 - 平均: {0} pixels</SingleLineWidthAverage>
     <DurationMinimum>表示時間 - 最小: {0:0.000} 秒</DurationMinimum>
     <DurationMaximum>表示時間 - 最大: {0:0.000} 秒</DurationMaximum>
     <DurationAverage>表示時間 - 平均: {0:0.000} 秒</DurationAverage>
